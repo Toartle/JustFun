@@ -128,7 +128,7 @@
 		"uniqueTo": "Wakanda",
 		"movement": 5,
 		"strength": 22,
-		"cost": 200,
+		"cost": 100,
 		"uniques": ["[+25]% Strength bonus for [Military] units within [3] tiles",
 			"Uncapturable",
 			"Limited to [1] per Civilization",
