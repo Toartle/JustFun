@@ -124,7 +124,7 @@
 	},
         {
 		"name": "White Wolf",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Ranged",
 		"uniqueTo": "Wakanda",
 		"movement": 5,
 		"strength": 22,
