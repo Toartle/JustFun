@@ -32,7 +32,7 @@
         "cost": 1,
         "science": 1,
         "uniques": ["Provides [1] [Vibranium]",
-            "[+1 Culture, +1 Science, +1 Happiness, +1 Faith, +1 Gold, +1 Food, +1 Production] [in all cities]",
+            "[+1 Culture, [+100]% Science, +1 Happiness, +1 Faith, +1 Gold, +1 Food, +1 Production] [in all cities]",
             "Free [Black Panther] appears",
             "Gain a free [Monument] [in this city]",
             "Will not be displayed in Civilopedia"],
