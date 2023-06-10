@@ -127,9 +127,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Wakanda",
 		"movement": 5,
-		"strength": 25,
-		
-		"cost": 300,
+		"strength": 22,
+		"cost": 200,
 		"uniques": ["[+25]% Strength bonus for [Military] units within [3] tiles",
 			"Uncapturable",
 			"Limited to [1] per Civilization",
