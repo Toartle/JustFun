@@ -107,7 +107,7 @@
 		"uniques": ["[+25]% Strength bonus for [Military] units within [3] tiles",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"Uncapturable",
-			"Limited to [1] per Civilization",
+			"Limited to [2] per Civilization",
 			"Only available <in cities with a [Sacred Mound]>",
 			"[+100]% XP gained from combat",
 			"Heals [25] damage if it kills a unit",
