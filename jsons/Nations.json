@@ -32,5 +32,6 @@
     },
     {
 	"name": "Korea", 
-	    "uniques": ["Starts with [Archery]", "Starts with [Pottery]"}
+	    "uniques": ["Starts with [Archery]", "Starts with [Pottery]"]
+    }
 ]
