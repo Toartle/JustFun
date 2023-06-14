@@ -29,9 +29,5 @@
 		"cities": ["Birnin Zana","Birnin Kashin","Birnin S'Yan","Birnin Azzaria","Birnin Bashenga","Adowa","Birnin Djata","Birnin T'Chaka",
 			"Black Warrior Creek","Jabari Village","Birnin Mutata","Golden Volcano","Birnin Benhazin","Birnin Tsauni","N'Jadaka Village","Obodo Makeda"],
 		"spyNames": ["White Wolf", "Hunter", "Bucky Barnes", "Shuri", "Refaat", "Ahmadou", "Mulu Ken", "Heba", "Ayub", "Wendimu"]
-    },
-    {
-	"name": "Korea", 
-	    "uniques": ["Starts with [Archery]", "Starts with [Pottery]"]
     }
 ]
