@@ -12,6 +12,32 @@
             "[+2 Science, +1 Faith, +1 Happiness] [in this city] <with [Vibranium]>"]
     },
     {
+        "name": "Chum Sung Dae",
+        "replaces": "Shrine",
+		"uniqueTo": "Korea",
+		"faith": 1,
+		"science": 3,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled",
+            "[+10 Science, +1 Faith, +1 Happiness] [in this city] <with [Bbarli Bbarli]>"]
+    },
+    {
+        "name": "Cham Sung Dan",
+        "uniqueTo": "Korea",
+        "isWonder": "true",
+        "requiredTech": "Iron Working",
+        "cost": 1,
+        "science": 1,
+        "uniques": ["Provides [1] [Bbarli Bbarli]",
+            "[+1 Culture, +10 Science, +5 Happiness, +1 Faith, +5 Gold, +1 Food, +10 Production] [in all cities]",
+            "Free [Chuk June Kyeong] appears",
+            "Gain a free [Monument] [in this city]",
+            "Will not be displayed in Civilopedia"],
+        "quote": "'I have seen gods fly. I have seen men build weapons that I couldn't even imagine. I have seen aliens drop from the sky. But I have never seen anything like this.' - Everett K. Ross"
+    },
+    {
         "name": "Energy Barrier",
         "uniqueTo": "Wakanda",
         "replaces": "Military Base",
