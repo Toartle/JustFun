@@ -66,6 +66,20 @@
         "quote": "'신에게는 아직 열 두 척에 배가 남아있사옵니다' - Chung Mu Gong"
     },
     {
+        "name": "SAMSUNG",
+        "uniqueTo": "Korea",
+        "isWonder": "true",
+        "requiredTech": "Nuclear Fission",
+        "cost": 300,
+        "science": 1,
+        "uniques": ["Provides [1] [Bbarli Bbarli]",
+            "[+1 Culture, +20 Science, +10 Happiness, +10 Faith, +10 Production] [in all cities]",
+            "Gain a free [Nuclear Plant] [in this city]",
+            "Provides [2] [Aluminum]","Provides [2] [Uranium]","Provides [2] [Oil]","Provides [2] [Coal]",
+            "Will not be displayed in Civilopedia"],
+        "quote": "'세 별이 하늘에 오르니, 은하수가 되어 밝게 빛났다'"
+    },
+    {
         "name": "Energy Barrier",
         "uniqueTo": "Wakanda",
         "replaces": "Military Base",
