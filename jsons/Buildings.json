@@ -19,7 +19,7 @@
         "cost": 1,
         "science": 1,
         "uniques": ["Free [Worker] appears","Free [Settler] appears"
-            "[+1 Culture, +5 Science, +4 Happiness, +1 Faith, +15 Gold, +1 Food, +5 Production] [in all cities]",
+            "[+5 Culture, +5 Science, +4 Happiness, +1 Faith, +15 Gold, +1 Food, +5 Production] [in all cities]",
             "Free Technology","Reveals the entire map",
             "Gain a free [Monument] [in this city]",
             "Will not be displayed in Civilopedia"],
