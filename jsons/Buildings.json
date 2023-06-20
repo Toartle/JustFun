@@ -12,18 +12,18 @@
             "[+2 Science, +1 Faith, +1 Happiness] [in this city] <with [Vibranium]>"]
     },
     {
-        "name": "Rage of Hughung No",
-        "uniqueTo": "The Huns",
+        "name": "Katana",
+        "uniqueTo": "Japan",
         "isWonder": "true",
         "requiredTech": "Agriculture",
         "cost": 1,
         "science": 1,
         "uniques": ["Free [Worker] appears","Free [Settler] appears","[+10]% Strength <for [all] units>",
-            "[+5 Culture, +5 Science, +4 Happiness, +1 Faith, +15 Gold, +1 Food, +5 Production] [in all cities]",
+            "[+5 Culture, +8 Science, +4 Happiness, +1 Faith, +15 Gold, +1 Food, +5 Production] [in all cities]",
             "Free Technology","Free Social Policy","Free Technology","Reveals the entire map",
-            "Gain a free [Monument] [in this city]","+1 movement <for [all] units>",
+            "Gain a free [Monument] [in this city]","+1 movement <for [All] units>",
             "Will not be displayed in Civilopedia"],
-        "quote": "Do not make them annoying!"
+        "quote": "Yaiba"
     },
     {
         "name": "Chum Sung Dae",
