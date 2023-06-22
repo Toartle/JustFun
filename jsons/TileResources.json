@@ -3,10 +3,5 @@
 		"name": "Vibranium",
 		"gold": 1,
 		"resourceType": "Luxury"
-    },
-    {
-		"name": "Bbarli Bbarli",
-		"gold": 1,
-		"resourceType": "Luxury"
     }
 ]
