@@ -13,7 +13,6 @@
 			"Invisible to non-adjacent units",
 			"Can see invisible [Land] units",
 			"May enter foreign tiles without open borders",
-			"[+2] Sight",
 			"May withdraw before melee ([50]%)"],
 		"promotions": ["Scouting I","Scouting II"],
 		"attackSound": "throw"
