@@ -3,19 +3,20 @@
 		"name": "Sinobi",
 		"unitType": "Scout",
 		"uniqueTo": "Japan",
-		"movement": 5,
+		"movement": 4,
 		"strength": 18,
 		"range": 3,
 		"rangedStrength": 22,
 		"cost": 25,
-		"obsoleteTech": "Iron Casting",
+		"obsoleteTech": "Metal Casting",
 		"uniques": ["Ignores terrain cost",
 			"Invisible to non-adjacent units",
 			"Can see invisible [Land] units",
 			"May enter foreign tiles without open borders",
 			"[+2] Sight",
 			"May withdraw before melee ([50]%)"],
-		"attackSound": "nonmetalhit"
+		"promotions": ["Scouting I","Scouting II"],
+		"attackSound": "throw"
 	},
 	{
 		"name": "Panther Scout",
