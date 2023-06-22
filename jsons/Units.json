@@ -8,7 +8,7 @@
 		"range": 3,
 		"rangedStrength": 22,
 		"cost": 25,
-		"obsoleteTech": "Metal Casting",
+		"requiredTech": "Metal Casting",
 		"uniques": ["Ignores terrain cost",
 			"Invisible to non-adjacent units",
 			"Can see invisible [Land] units",
