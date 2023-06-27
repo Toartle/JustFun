@@ -1,21 +1,18 @@
 [
 	{
-		"name": "Sinobi",
-		"unitType": "Scout",
-		"uniqueTo": "Japan",
+		"name": "Turtle Ship",
+		"unitType": "Melee Water",
+		"replaces": "Turtle Ship",
+		"uniqueTo": "Korea",
 		"movement": 4,
-		"strength": 18,
-		"range": 3,
-		"rangedStrength": 22,
-		"cost": 25,
-		"requiredTech": "Metal Casting",
-		"uniques": ["Ignores terrain cost","Can move after attacking",
-			"Invisible to non-adjacent units",
-			"Can see invisible [Land] units",
-			"May enter foreign tiles without open borders",
-			"May withdraw before melee ([50]%)"],
-		"promotions": ["Scouting I","Scouting II"],
-		"attackSound": "throw"
+		"strength": 36,
+		"cost": 120,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["Can move after attacking"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Panther Scout",
