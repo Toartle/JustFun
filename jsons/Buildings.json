@@ -23,7 +23,7 @@
             "Free Technology","Free Social Policy","Free Technology","Reveals the entire map","Provides [2] [Iron]",
 	    "[+10 Science, +4 Food, +5 Production] from [Mountain] tiles [in all cities]","[+10 Science] from [Desert] tiles [in all cities]",
 	    "[+2 Science, +1 Culture, +1 Happiness] from [Coast] tiles [in all cities]",
-            "Gain a free [Monument] [in this city]","[+1] Movement <for [All] units>","[+1] Movement <for [Hwach'a]>",
+            "Gain a free [Monument] [in this city]","[+1] Movement <for [All] units>","[+1] Movement <for [Siege] units>",
             "Will not be displayed in Civilopedia"],
         "quote": "Yaiba"
     },
