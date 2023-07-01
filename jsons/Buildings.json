@@ -25,7 +25,7 @@
 	    "[+6 Science, +3 Food, +3 Production] from [Mountain] tiles [in all cities]","[+4 Science, +3 Culture, +2 Gold] from [Desert] tiles [in all cities]",
 	    "[+2 Science, +1 Culture, +1 Happiness] from [Coast] tiles [in all cities]",
             "[+4 Science, +1 Culture] from [Tundra] tiles [in all cities]",
-	    "[+5 Science] from [Snow] tiles [in all cities]",
+	    "[+5 Science] from [Snow] tiles [in all cities]","Double quantity of [Uranium] produced",
             "Gain a free [Monument] [in this city]","[+1] Movement <for [All] units>","[+1] Movement <for [Siege] units>",
             "Will not be displayed in Civilopedia"],
         "quote": "Yaiba"
